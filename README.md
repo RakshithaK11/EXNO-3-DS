@@ -102,6 +102,7 @@ plt.show()
 sn.qqplot(np.reciprocal(df["Moderate Negative Skew"]),line='45')
 plt.show()
 ~~~
+
 # OUTPUT:
 ![image](https://github.com/RakshithaK11/EXNO-3-DS/assets/139336455/6ceb30ea-61e6-4b39-a19a-5c262a1dc38d)
 ![image](https://github.com/RakshithaK11/EXNO-3-DS/assets/139336455/9565fbfa-b53a-44c3-b3c2-fc3905df5241)
