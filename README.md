@@ -100,7 +100,6 @@ plt.show()
 ~~~
 # OUTPUT:
 ![image](https://github.com/RakshithaK11/EXNO-3-DS/assets/139336455/6ceb30ea-61e6-4b39-a19a-5c262a1dc38d)
-![image](https://github.com/RakshithaK11/EXNO-3-DS/assets/139336455/9565fbfa-b53a-44c3-b3c2-fc3905df5241)
 ![image](https://github.com/RakshithaK11/EXNO-3-DS/assets/139336455/f85604fd-2f0b-42cb-9809-89b0c4aa2f8b)
 ![image](https://github.com/RakshithaK11/EXNO-3-DS/assets/139336455/b3f16f33-99c7-4a9a-9a7c
 3308584693a5)
